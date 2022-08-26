@@ -1,0 +1,26 @@
+
+
+
+h1{
+    color: yellow;
+}
+img{
+    width: 400px;
+}
+.DivClass{
+    color: aquamarine;
+}
+#tercerdiv{
+    
+    height: 600px;
+    width: 500px;
+    background-color: purple;
+    padding: 50px;
+    border: 5px solid black;
+
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
