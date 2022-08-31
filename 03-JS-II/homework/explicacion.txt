@@ -1,0 +1,41 @@
+* `for`:
+        seria como decir ;
+        es un contador de posiciones, si tenes  5 cajas con 100 pesos y queres sumar
+        toda la plata podes decir por cada sobre que tenes sumas 100 pesos hasta q se 
+        quede sin sobres.
+        for i in sobres;
+            i + 100;
+        
+        for (let i = 0; i < cajas.length >; i++);
+
+
+* `&&`, `||`, `!`
+
+         && seria el "and" o "y" una conjucion de dos condiciones
+    tendrian q cumplirse las 2 para poder ejecutar una accion 
+    seria como decirle:
+    si esta la pelicula q nos gusta y tenemos para pagarla podemos ir a verla
+    o si si ahi sol y ahi pique vamos a pescar
+
+if (sol == true && ahipique == true){
+    retur "vamos a pescar"
+} 
+
+        `||`  seria el "OR" y "o" una disyucion de dos condiciones 
+se puede decir q mientras q una de las 2 se cumpla podemos
+ejecutar la accion
+seria como decir :
+si caen rayos o truena seguro q llueve
+si ahi una linda peli o la entrada es gratis vamos a verla
+
+if (caenrayos == true || truena == true ){
+    return "llueve"
+}
+        ! seria el not o negacion 
+        significa que estamos preguntando lo contrario de la expresión
+
+si el dia no esta lluvioso salimos a bicicletear
+
+if (dia !== lluvia ){
+    return "bicicletear
+}
