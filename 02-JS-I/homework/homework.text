@@ -1,0 +1,44 @@
+Variables:
+        es una espacio en memoria para almacenar algun valor cadenas de texto, numeros,
+        boleanos, funciones, objetos, etc.
+        le diria a un niño q es una caja donde puede guardar algoq tenga un valor para 
+        poder utilisarlo cuando sea necesario y q a su ves dicha caja esta guardada en una 
+        mas grance q seria la pc.
+
+
+Strings:
+        es una cadena de texto que se definen entre comillas, es un tipo de dato de un lenguaje.
+        le diria q es lo q utiliza para escribir leer o entender algo y que si el necesitara
+        comunicar algo le serian de utilidad , es algo q tambien podria guardar en uncontenedor
+        para usar cuando lo necesite.
+       
+Funciones: (argumentos, return)
+        las funciones son objeto invocables. son las que nos permiten uzar las variables para hacer calculos, cambiarlas, etc
+        argumentos son aquellos q le pasamos a la funcion para llegar a un resultado deseado.
+        
+         le diria q es lo q hacemos todos los dias lavar los platos, manejar, comer, ect., cuando manejas tomas el volante y lo giras para donde queres doblar para llegar a un objetivo deseado.
+         doblar(izquierda o derecha (argumento) ) seria la Funcion, volante seria la variable y llegar al destino deseado seria lo q devuelve(return) la funcion.
+        
+       
+
+
+
+Decl   araciones if:
+        es un condicional para prenguntar si es asi (if (condicion))
+        devuelve siempre un booleano true si se cumple, de lo contrario false.
+        si se cumple la condicion se ejecuta el codigo dentro de las llaves{}
+
+        es como decirle a un niño  si esta la pelicula q nos gusta  podemos ir a verla
+        o si ahi pique vamos a pescar
+
+
+
+Valores booleanos (true, false):
+        
+        la computadora solo interpreta si o no no sabe decir puede ser o tal seria si....
+        entonces para dar una respuesta siempre es si o no no existe un tal vez.
+        para ello usamos Verdadero(true) o Falso(false).
+        se usa para evaluar condiciones.
+
+        le diria a un niño q es una forma de saber si algo es o no, es 
+        como decir si llueve no vamos a pescar, entonces si llueve es verdadero si no llueve es falso. si esta lloviendo no vamos a poder ir a pescar osea q cuando se pregunta si llueve  va a mirar afuera si esto es asi(verdadero) no vamos a ir a pescar, pero si esto no es asi (falso)si vamos a pescar.
