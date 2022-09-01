@@ -1,0 +1,6 @@
+arrays:
+    es una coleccion de tipos de datos podemos usar una variable para almacenarlo
+     podemos agregar al contenedor (separadas por coma) tantas cadenas, números o booleanos como queramos y acceder a esos elementos cuando lo deseemos.
+
+     le diria q es una caja de juguetes como las variables pero q en ves de un juguete podemos almacenar muchos.
+     y cada una de esos juguetes va a estar en un lugar especifico de la caja, de esta forma nos permite buscar y cambiar cada uno de ellos.
