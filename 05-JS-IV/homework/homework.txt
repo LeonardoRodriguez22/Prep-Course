@@ -1,0 +1,39 @@
+Objetos:
+    es una estructura de datos con propiedades y metodos esto nos permite crear un mundo 
+    de posibilidades.
+    se puede realizar acciones o darle color, tamaño
+    le diria que:
+    es una forma de crear cosas en la pc llegarse lo mas posible a las situaciones 
+    de la vida real y asi crear programas  complejos.
+
+Propiedades
+    son las propiedades del objeto nombre, color, o lo que queramos expresar son pares de datos
+    key-value el nombre de la propiedad y el valor.
+
+    le dirira que:
+    es lo que tiene cada objeto o como es un nombre un color estructura
+
+Métodos
+    son las funciones q realizan las acciones de los objetos como operaciones matematicas 
+    o con texto agregar o quitar datos estc.
+    le diria que:
+    
+    son las acciones del objeto mostrar texto, sumar numeros
+    como en la vida real seria saltar, caminar, acciones
+
+Bucle for…in
+    el for in es la herramienta para iterar un objeto por claves ya q no se guardan 
+    sus datos como en un array con un indice automatico numerico, estos se guardan
+    de modo q queda una clave para cada valor, asi q esta herramienta
+    nos permite iterarlo por cada clave q tenga el objeto hasta su final
+
+    seria como tener una coleccion de autos y cada auto tiene un valor y cuando 
+    quiero buscarlos los busco por su clave q puede ser su marca, modelo, año, etc.
+    y una ves encontrada dicho auto obtengo su valor o bien obtener todas los autos
+    con sus respectivos valores.
+
+
+Notación de puntos vs notación de corchetes
+    es mucho mas practica la notacion de puntos pero por mi punto de vista es 
+    muy indispensable usar corchetes cuando recibimos argumentos sin saber el nombre 
+    de la propiedad o metodo.
