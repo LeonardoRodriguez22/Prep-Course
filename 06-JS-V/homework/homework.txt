@@ -1,0 +1,12 @@
+prototype:
+
+        es la forma de asignarle un metodo a una clase por medio de una propiedad
+        q poseen las mismas, esto es para ahorrar espacio en la memoria, ya qu si lo creamos
+        como funcion cada ves q se instancie la classe se crearan los metodos 
+        de la misma, en cambio con prototype el metodo se crea una sola vez y la clase le da acceso a todos los objetos de esta clase..
+
+        
+
+Constructor (de Clases):
+         es una funcio donde le asignamos las propiedades, metodos a la clase q luego pueden ser heredados por otros constructores..
+         por convencion se uza la primera letra en mayuscula.
